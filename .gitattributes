@@ -1,2 +1,3 @@
-
-*.kt 
+*.dart linguist-detectable=true
+*.kt linguist-detectable=false
+*.java linguist-detectable=false
